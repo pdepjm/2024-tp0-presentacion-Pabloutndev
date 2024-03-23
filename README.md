@@ -11,7 +11,7 @@ Soy una persona bastante curiosa y la vida me ha llevado hacia el mundo de la in
 
 También tengo un interés en las investigaciones independientes, me gustaría vincular mis conocimientos para desarrollar cosas que puedan contribuir al bienestar de la humanidad y mejorar la calidad de vida de las personas.
 
-Actualmente estoy aprendiendo y terminando un curso sobre herramientas tecnológicas modernas.Me atraen los lenguajes orientados a mejorar la optimización y la seguridad de los sistemas, de bajo/medio nivel como C o Rust. También me gusta programar C orientado a microcontroladores y aprender algo de electronica como hobby.
+Actualmente estoy aprendiendo y terminando un curso sobre Full-Stack en Js. Sin embargo, me atraen los lenguajes orientados a mejorar la optimización y la seguridad de los sistemas, de bajo/medio nivel como C o Rust. También me gusta programar C orientado a microcontroladores y aprender algo de electronica como hobby.
 
 ## Mis gustos
 - Me gusta mucho el café y también los gatos (Mi foto une ambos xd)
