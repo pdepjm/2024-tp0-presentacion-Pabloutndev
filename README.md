@@ -20,11 +20,13 @@ Actualmente continuo aprendiendo sobre el stack MERN. Sin embargo, me atraen los
 - Mi gusto preferido de helado es el super dulce de leche, pero si hay una moneda extra, elijo el gusto dulce de leche de cabra de rapanui ╰(*°▽°*)╯
 - Cada tanto suelo jugar lolcito, en la cuenta main juego top/jg wukong y en otra cuenta only right click trynda top. Con amigos/compañeros juego cualquier línea. Otros juegos que cada tanto juego son CS GO o MTG Arena (juego de cartas).
 - Me gusta pasear en lugares verdes, plazas, parques o la costanera.
-<!-- Suelo escuchar música de los [80s](https://www.youtube.com/watch?v=TzIOeSB9RaU), [Jazz](https://www.youtube.com/watch?v=CCw-vcq2n4k), [Soul & Funk](https://www.youtube.com/watch?v=jlYLJPTZeLA), [Groove](https://www.youtube.com/watch?v=k-ZazLdtDRI), [Rock](https://www.youtube.com/watch?v=yr6cwbDfaBU), [Heavy metal](https://www.youtube.com/watch?v=t-lZyv1hPGk&t=195s), y [electronica de 1990-2007](https://www.youtube.com/watch?v=-5rzNBz00Mo).
-- Dejo un link en cada genero que los dirige a la banda/artista que mas suelo escuchar actualmente de ese genero :D
--->
 - Suelo escuchar música de los 80s, Jazz, Soul & Funk, Groove, Rock, algo de Heavy metal, y electronica house de 1990-2007.
 - Actualmente escucho bastante a [Brian Culbertson](https://www.youtube.com/watch?v=CCw-vcq2n4k), [Jamiroquai](https://www.youtube.com/watch?v=GJhT3R2QFwQ) y [Prefab Sprout](https://www.youtube.com/watch?v=2XoF6C_S05U).
 - Tengo 2 gatitos, una mamá llamada Sol y su hijo Benjamin (alias Benja o Benji)
 
  ![Gatitos](gatitos.jpg)
+
+
+<!-- Suelo escuchar música de los [80s](https://www.youtube.com/watch?v=TzIOeSB9RaU), [Jazz](https://www.youtube.com/watch?v=CCw-vcq2n4k), [Soul & Funk](https://www.youtube.com/watch?v=jlYLJPTZeLA), [Groove](https://www.youtube.com/watch?v=k-ZazLdtDRI), [Rock](https://www.youtube.com/watch?v=yr6cwbDfaBU), [Heavy metal](https://www.youtube.com/watch?v=t-lZyv1hPGk&t=195s), y [electronica de 1990-2007](https://www.youtube.com/watch?v=-5rzNBz00Mo).
+- Dejo un link en cada genero que los dirige a la banda/artista que mas suelo escuchar actualmente de ese genero :D
+-->
