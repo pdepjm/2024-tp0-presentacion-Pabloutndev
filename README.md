@@ -28,11 +28,11 @@ Actualmente continuo aprendiendo sobre el stack MERN. Sin embargo, me atraen los
 
 ## Investigaciones independientes
 Las investigaciones independientes consiste en la busqueda de archivos o material por internet que hablen de cosas que podrían rozar la ciencia ficción en el mundo real.
-Y intentar descubrir como funciona dichos proyectos actuales y ver si hasta inclusive no están siendo aplicados en la actualidad en algunas zonas, como por ejemplo [link](https://www.infobae.com/america/mundo/2024/03/19/los-emiratos-arabes-unidos-recurren-a-la-siembra-de-nubes-para-enfrentar-el-desafio-del-cambio-climatico/)
+Y intentar descubrir como funciona dichos proyectos actuales y ver si hasta inclusive no están siendo aplicados en la actualidad en algunas zonas, como por ejemplo un intento de cambio de clima en Emiratos Arabes. [link](https://www.infobae.com/america/mundo/2024/03/19/los-emiratos-arabes-unidos-recurren-a-la-siembra-de-nubes-para-enfrentar-el-desafio-del-cambio-climatico/)
 
 La idea inicial fue pensar quizás en proyectos antiguos militares como el proyecto haarp, pero una investigación reciente, pensando en si el clima puede ser modificado en la actualidad de otras formas más modernas, me llevo a encontrar una patente dentro de google patents, que habla de modificación del clima con uso de radares, satelites, IA, etc. Esto quizás suena raro 🤣, pero lo veo interesante, su publicación final fue en 2024-01-30 y su estado es activo. [patente](https://patents.google.com/patent/US11882798B2/en?q=A01G15%2f00).
 
-La curiosidad de estas cosas se me fue despertando al ver nubes en linea recta hechas por aviones con yoduro de plata en distintas partes de Buenos Aires.
+La curiosidad de estas cosas se me fue despertando al ver nubes en linea recta hechas por aviones con yoduro de plata en distintas partes de Buenos Aires y CABA.
 
 <!-- Suelo escuchar música de los [80s](https://www.youtube.com/watch?v=TzIOeSB9RaU), [Jazz](https://www.youtube.com/watch?v=CCw-vcq2n4k), [Soul & Funk](https://www.youtube.com/watch?v=jlYLJPTZeLA), [Groove](https://www.youtube.com/watch?v=k-ZazLdtDRI), [Rock](https://www.youtube.com/watch?v=yr6cwbDfaBU), [Heavy metal](https://www.youtube.com/watch?v=t-lZyv1hPGk&t=195s), y [electronica de 1990-2007](https://www.youtube.com/watch?v=-5rzNBz00Mo).
 - Dejo un link en cada genero que los dirige a la banda/artista que mas suelo escuchar actualmente de ese genero :D
